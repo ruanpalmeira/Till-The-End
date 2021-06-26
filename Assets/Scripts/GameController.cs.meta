@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa2f0a5fe0c2f114c9ce75e3a3288cc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraToggle: {instanceID: 0}
+  - grow: {fileID: 8300000, guid: 7948a05941c8324499b8a076932a010d, type: 3}
+  - shrink: {fileID: 8300000, guid: 6a3aca63507681f459c54f64ecb3cf68, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
